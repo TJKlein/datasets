@@ -1,6 +1,6 @@
 # Wikipedia based dataset (splits)
 
-Custom Wikepdia dataset (splits) created using the tool from [repository](https://github.com/TJKlein/DataSplitCreator).
+Custom English [Wikipedia dataset](https://huggingface.co/datasets/wikipedia) (splits) created using the tool from [repository](https://github.com/TJKlein/DataSplitCreator).
 
 wiki_subset_1M_seed48.txt was created using:
 
